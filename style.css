@@ -1,0 +1,8 @@
+body {
+     background: linear-gradient(#abfff8 50%, #fa7a7a 50%);
+    text-align: center;
+}
+iframe{
+    width: 700px;
+    height:1000px; 
+}
